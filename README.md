@@ -1,1 +1,22 @@
 
+## Contenido del Repositorio
+
+### Curriculum Vitae
+
+Utilizando la plantilla de la catedra en formato latex
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://i.postimg.cc/C5StRTf9/Captura-de-pantalla-50.png" alt="CV" width="300px">
+</p>
+</div>
+
+### Traducción del Capitulo 9
+
+Traducción y resumen sobre la descarbonización
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://images.squarespace-cdn.com/content/v1/5a5e98d7bff200b24d59f085/1516189359904-G3CTLWAOI13TYGBHGGAV/ke17ZwdGBToddI8pDm48kHNsYJ2aGQ3XIxrXja_sDipZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHLF8TrPI__-UWdxnQYjiP3_IyQ-9zyhB88gXnGMdfWm5u3E9Ef3XsXP1C_826c-iU/NEW-HOME-DIC-08.png" alt="JuveYell" width="300px">
+</p>
+</div>
